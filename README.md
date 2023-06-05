@@ -1,1 +1,4 @@
-![QA Automation engineer](https://drive.google.com/file/d/1mkEBDPNyDG4a0ySNXUblujkKnfPtSr5i/view?usp=sharing)
+
+![QA Automation engineer](https://github.com/edgar8686/git-gui/blob/main/TWMC1818.png?raw=true)
+<Img src="https://github.com/edgar8686/git-gui/blob/main/TWMC1818.png?raw=true" Width="400" Height="200">
+
