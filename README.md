@@ -6,7 +6,7 @@
 
 + [Ссылка на резюме]()
 
-### *My CV in English*
+### *My CV in english*
 
 + [Link to my CV]()
 ___
