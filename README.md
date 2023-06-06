@@ -41,7 +41,7 @@ ___
 ![devtools](https://img.shields.io/badge/-devtools-090909?style=for-the-badge&logo=devtools)
 ![SoapUI](https://img.shields.io/badge/-soapUI-090909?style=for-the-badge&logo=SoapUI)
 ___
-### ***Follow me:point_down:***
+### ***Follow me :point_down:***
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Edgar186)
 [![Linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin)]()
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=whatsapp)](https://wa.me/79324194220?text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!%20%F0%9F%91%8B%20%D0%9C%D0%B5%D0%BD%D1%8F%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D1%83%D0%B5%D1%82...)
