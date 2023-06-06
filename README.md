@@ -1,7 +1,7 @@
 
 <Img src="https://github.com/edgar8686/git-gui/blob/main/photo_2023-06-06_12-19-15.jpg?raw=true" Width="850" Height="350">
 
-## ***Hello!:wave: I am QA automation engineer. :fire: I work for the company ITX***
+## ***Hello!:wave: I am QA automation engineer. :fire: I work for the company ITX.***
 ### *Moe резюме на русском*
 
 + [Ссылка на резюме]()
