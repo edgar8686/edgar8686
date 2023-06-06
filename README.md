@@ -25,7 +25,10 @@ ___
 + [Stress testing Jmeter]()
 ___
 ### ***Other course projects***
-+
++ [Tic-tac-toe game](https://github.com/edgar8686/GB/blob/master/src/Lesson4_Project_X_Y/ProjectXY.java)
++ [Weather forecast](https://github.com/edgar8686/JavaCore_project/tree/master/src/main/java/Project)
++ [Test automation Web UI](https://github.com/edgar8686/Maven_project/tree/master/src/test/java/org/example/project)
++ [Test automation backend](https://github.com/edgar8686/Project_backend_Java)
 ___
 ### ***Langueges and Tools***
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java)
