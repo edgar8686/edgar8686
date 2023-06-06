@@ -10,7 +10,7 @@
 
 + [Link to my CV]()
 ___
-### ***My testing documentation in ITX and Aston QA manual course***
+### ***My testing documentation made in the company ITX and in the company Aston "QA manual course"***
 + [Requirements testing](https://github.com/edgar8686/Documentations_ITX_and_Aston/blob/requirements_testing/README.md)
 + [CheckLists]()
 + [Test-Cases]()
@@ -19,7 +19,7 @@ ___
 + [SQL Queries]()
 + [Postman Collections]()
 ___
-### ***My test automation projects in ITX web and mobile***
+### ***My test automation projects made in the company ITX web and mobile***
 + [Web project prod.version Capital.com]()
 + [Mobile project prod.version Crypto Academy by Invesmate](https://github.com/edgar8686/Test_Appium_Mobile)
 + [Stress testing Jmeter]()
