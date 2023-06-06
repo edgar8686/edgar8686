@@ -1,5 +1,5 @@
 
-<Img src="https://github.com/edgar8686/git-gui/blob/main/TWMC1818.png?raw=true" Width="850" Height="300">
+<Img src="https://github.com/edgar8686/git-gui/blob/main/photo_2023-06-06_12-09-02.jpg?raw=true" Width="850" Height="150">
 
 ## ***Hello! I am QA automation engineer.***
 ### *Moe резюме на русском*
