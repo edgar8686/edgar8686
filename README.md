@@ -10,3 +10,4 @@
 
 + [Link to my CV]()
 ___
+:wave:
