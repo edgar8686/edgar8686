@@ -11,7 +11,7 @@
 + [Link to my CV]()
 ___
 ### ***My testing documentation in ITX and Aston QA manual course***
-+ [Requirements testing]()
++ [Requirements testing](https://github.com/edgar8686/Documentations_ITX_and_Aston/blob/requirements_testing/README.md)
 + [CheckLists]()
 + [Test-Cases]()
 + [Bug-Reports]()
