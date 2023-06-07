@@ -4,7 +4,7 @@
 ## ***Hello!:wave: I am QA automation engineer. :fire:***
 ### *Moe резюме на русском*
 
-+ [Ссылка на резюме](https://drive.google.com/file/d/17z00yZIM0ehFN5uhuXAQiPNH-oZSqhag/view?usp=sharing)
++ [Ссылка на резюме](https://drive.google.com/file/d/1eAffy0hJqnBPAE_F2VhE-sA1TpNArWdk/view?usp=sharing)
 
 ### *My CV in english*
 
