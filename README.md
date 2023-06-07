@@ -20,7 +20,7 @@ ___
 + [Postman Collections]()
 ___
 ### ***My test automation projects made in the company ITX web and mobile***
-+ [Web project prod.version Capital.com]()
++ [Web project prod.version Capital.com](https://github.com/edgar8686/Selenium_project)
 + [Mobile project prod.version Crypto Academy by Invesmate](https://github.com/edgar8686/Test_Appium_Mobile)
 + [Stress testing Jmeter]()
 ___
