@@ -6,13 +6,13 @@
 
 + [Ссылка на резюме](https://drive.google.com/file/d/1eAffy0hJqnBPAE_F2VhE-sA1TpNArWdk/view?usp=sharing)
 
-### *My CV in english*
+### *My CV in English*
 
 + [Link to my CV]()
 ___
 ### ***My testing documentation made in the company ITX and in the company Aston "QA manual course"***
 + [Requirements testing](https://github.com/edgar8686/Documentations_ITX_and_Aston/blob/requirements_testing/README.md)
-+ [CheckLists]()
++ [CheckLists](https://github.com/edgar8686/Documentations_ITX_and_Aston/tree/checklists)
 + [Test-Cases]()
 + [Bug-Reports]()
 + [Mind map and Decision table]()
