@@ -54,7 +54,7 @@ ___
 ___
 ### ***Follow me :point_down:***
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Edgar186)
-[![Linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin)]()
+[![Linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edgar-nurmagomedov-9a8840255?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bzc13ORMfT8qLx9x1HeP%2BWQ%3D%3D)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=whatsapp)](https://wa.me/79324194220?text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!%20%F0%9F%91%8B%20%D0%9C%D0%B5%D0%BD%D1%8F%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D1%83%D0%B5%D1%82...)
 ___
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edgar8686&show_icons=true&theme=merko)
