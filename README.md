@@ -13,7 +13,7 @@ ___
 ### ***My testing documentation made in the company ITX and in the company Aston "QA manual course"***
 + [Requirements testing](https://github.com/edgar8686/Documentations_ITX_and_Aston/blob/requirements_testing/README.md)
 + [CheckLists](https://github.com/edgar8686/Documentations_ITX_and_Aston/tree/checklists)
-+ [Test-Cases]()
++ [Test-Cases](https://github.com/edgar8686/Documentations_ITX_and_Aston/tree/testcases)
 + [Bug-Reports]()
 + [Mind map and Decision table]()
 + [SQL Queries]()
