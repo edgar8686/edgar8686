@@ -4,11 +4,11 @@
 ## ***Hello!:wave: I am QA automation engineer :fire:***
 ### *Moe резюме на русском*
 
-+ [Ссылка на резюме](https://drive.google.com/file/d/1eAffy0hJqnBPAE_F2VhE-sA1TpNArWdk/view?usp=sharing)
++ [Ссылка на резюме](https://drive.google.com/file/d/1zJIQytMpY94O3wHpA0SOaF1YGsK3fwOL/view?usp=sharing)
 
 ### *My CV in English*
 
-+ [Link to my CV]()
++ [Link to my CV](https://resume.io/r/CVK7ezPSe)
 ___
 ### ***My testing documentation made in the company ITX and in the company Aston "QA manual course"***
 + [Requirements testing](https://github.com/edgar8686/Documentations_ITX_and_Aston/blob/requirements_testing/README.md)
