@@ -4,7 +4,7 @@
 ## ***Hello!:wave: I am QA Engineer :fire:***
 ### *Moe резюме на русском*
 
-+ [Ссылка на резюме](https://drive.google.com/file/d/1zJIQytMpY94O3wHpA0SOaF1YGsK3fwOL/view?usp=sharing)
++ [Ссылка на резюме](https://drive.google.com/file/d/1s1K1kI8MDcR7TvxAoDQt2VmPTyF1vTRI/view?usp=sharing)
 
 ### *My CV in English*
 
