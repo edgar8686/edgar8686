@@ -14,7 +14,7 @@ ___
 + [Requirements testing](https://github.com/edgar8686/Documentations_ITX_and_Aston/blob/requirements_testing/README.md)
 + [CheckLists](https://github.com/edgar8686/Documentations_ITX_and_Aston/tree/checklists)
 + [Test-Cases](https://github.com/edgar8686/Documentations_ITX_and_Aston/tree/testcases)
-+ [Bug-Reports]()
++ [Bug-Reports](https://github.com/edgar8686/Documentations_ITX_and_Aston/tree/bugreports)
 + [Mind map and Decision table]()
 + [SQL Queries]()
 + [Postman Collections]()
