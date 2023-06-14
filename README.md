@@ -15,7 +15,7 @@ ___
 + [CheckLists](https://github.com/edgar8686/Documentations_ITX_and_Aston/tree/checklists)
 + [Test-Cases](https://github.com/edgar8686/Documentations_ITX_and_Aston/tree/testcases)
 + [Bug-Reports](https://github.com/edgar8686/Documentations_ITX_and_Aston/tree/bugreports)
-+ [Mind map and Decision table]()
++ [Mind map and Decision table](https://github.com/edgar8686/Documentations_ITX_and_Aston/tree/mindmap)
 + [SQL Queries]()
 + [Postman Collections]()
 ___
