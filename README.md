@@ -1,7 +1,7 @@
 
 <Img src="https://github.com/edgar8686/git-gui/blob/main/photo_2023-06-06_12-19-15.jpg?raw=true" Width="850" Height="350">
 
-## ***Hello!:wave: I am QA Engineer :fire:***
+## ***Hello!:wave: I am a QA Engineer :fire:***
 ### *Moe резюме на русском*
 
 + [Ссылка на резюме](https://drive.google.com/file/d/1s1K1kI8MDcR7TvxAoDQt2VmPTyF1vTRI/view?usp=sharing)
