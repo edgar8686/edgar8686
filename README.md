@@ -18,6 +18,7 @@ ___
 + [Mind map and Decision table](https://github.com/edgar8686/Documentations_ITX_and_Aston/tree/mindmap)
 + [SQL Queries]()
 + [Postman Collections]()
++ [Linux](https://github.com/edgar8686/Linux)
 ___
 ### ***My test automation projects made in the company ITX web and mobile***
 + [Web project prod.version Capital.com](https://github.com/edgar8686/Selenium_project)
