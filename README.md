@@ -16,7 +16,7 @@ ___
 + [Test-Cases](https://github.com/edgar8686/Documentations_ITX_and_Aston/tree/testcases)
 + [Bug-Reports](https://github.com/edgar8686/Documentations_ITX_and_Aston/tree/bugreports)
 + [Mind map and Decision table](https://github.com/edgar8686/Documentations_ITX_and_Aston/tree/mindmap)
-+ [SQL Queries]()
++ [SQL Queries](https://github.com/edgar8686/Documentations_ITX_and_Aston/tree/sql)
 + [Postman Collections]()
 + [Linux](https://github.com/edgar8686/Linux)
 ___
