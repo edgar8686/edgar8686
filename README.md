@@ -10,6 +10,9 @@
 
 + [Link to my CV](https://resume.io/r/CVK7ezPSe)
 ___
+### ***My certificate Aston company QA Manual course***
++ [Link to my certificate](https://drive.google.com/file/d/16RvsqdAzrJ6zDBXE8LghvJR2XAZ-JBbV/view?usp=sharing)
+___
 ### ***My testing documentation made in the company ITX and in the company Aston "QA manual course"***
 + [Requirements testing](https://github.com/edgar8686/Documentations_ITX_and_Aston/blob/requirements_testing/README.md)
 + [CheckLists](https://github.com/edgar8686/Documentations_ITX_and_Aston/tree/checklists)
