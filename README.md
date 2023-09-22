@@ -1,10 +1,10 @@
 
 <Img src="https://github.com/edgar8686/git-gui/blob/main/photo_2023-06-06_12-19-15.jpg?raw=true" Width="850" Height="350">
 
-## ***Hello!:wave: I am a QA Engineer :fire:***
+## ***Hello!:wave: My name is Edgar. My previous work involved testing and inspecting equipment in the oil and gas industry, where I conducted equipment checks using software. I was familiar with SQL in this role. However, I decided to pursue a career in testing and quality assurance. I successfully completed automation testing courses at GB, received training in manual testing from Aston QA, and also studied programming at JavaRush. It is essential to me that a company offers opportunities for growth and fosters a sense of unity among its employees. :fire:***
 ### *Moe резюме на русском*
 
-+ [Ссылка на резюме](https://drive.google.com/file/d/1JHgLCTLfVx3m19AccSdYQBc7Gj_JaP6K/view?usp=sharing)
++ [Ссылка на резюме](https://drive.google.com/file/d/1TKa2z0j1rNmU_rqphAcp3QajGX4x-K5l/view?usp=sharing)
 
 ### *My CV in English*
 
